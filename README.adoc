@@ -14,7 +14,8 @@ Tutorial Followed was :
 https://spring.io/guides/gs/rest-service/#initial
 
 My blog version which needs finetuning
-https://multilingualrep.blogspot.com/b/post-preview?token=9SaSjFoBAAA.Tj_lsJ0LzuRgjF0JLLGH1SKXw4cYDtfunRkFjlKmcl1GBVE1rwgP_0yLF2gO--FR0_CmFuaADkPT3nlfcGC0ng.jWFRsSrpfWZbg87HztAUiQ&postId=7848478972043631628&type=POST
+http://multilingualrep.blogspot.com/2017/02/maven-and-jowkl.html
+
 
 Other Resoures
 
